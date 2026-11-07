@@ -113,5 +113,5 @@ project_perpustakaan/
 
 ## 🎥 Video Demo Aplikasi
 
-- **Link Video YouTube**: `https://youtu.be/eg-HZse9-SM`
+- **Link Video YouTube**: [https://youtu.be/eg-HZse9-SM](https://youtu.be/eg-HZse9-SM)
 
