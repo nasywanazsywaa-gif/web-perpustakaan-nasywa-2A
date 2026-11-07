@@ -102,19 +102,14 @@ project_perpustakaan/
 > *Silakan ambil screenshot dari browser Anda dan masukkan pada bagian ini:*
 
 1. **Halaman Login & Fitur Remember Me (`index.php`)**
-   ![Screenshot Halaman Login](docs/screenshot_login.png)
+   ![Screenshot Halaman Login](Screenshot 2026-11-07 144030.png)
 
 2. **Dashboard & Tabel Data Buku dengan Status Ketersediaan (`dashboard.php`)**
-   ![Screenshot Dashboard CRUD](docs/screenshot_dashboard.png)
+   ![Screenshot Dashboard CRUD](Screenshot 2026-11-07 144400.png)
 
 3. **Form Tambah Data & Upload Sampul (`tambah_buku.php`)**
-   ![Screenshot Tambah Buku](docs/screenshot_tambah.png)
+   ![Screenshot Tambah Buku](Screenshot 2026-11-07 144544.png)
 
-4. **Form Edit Data & Ganti Sampul (`edit_buku.php`)**
-   ![Screenshot Edit Buku](docs/screenshot_edit.png)
-
-5. **Struktur Tabel Database di phpMyAdmin**
-   ![Screenshot Struktur Database](docs/screenshot_database.png)
 
 ---
 
