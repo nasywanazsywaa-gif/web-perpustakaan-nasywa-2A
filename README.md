@@ -99,16 +99,14 @@ project_perpustakaan/
 
 ## 📸 Dokumentasi Screenshot Aplikasi
 
-> *Silakan ambil screenshot dari browser Anda dan masukkan pada bagian ini:*
-
 1. **Halaman Login & Fitur Remember Me (`index.php`)**
-   ![Screenshot Halaman Login](Screenshot 2026-11-07 144030.png)
+   ![Screenshot Halaman Login](screenshots/login.jpg)
 
 2. **Dashboard & Tabel Data Buku dengan Status Ketersediaan (`dashboard.php`)**
-   ![Screenshot Dashboard CRUD](Screenshot 2026-11-07 144400.png)
+   ![Screenshot Dashboard CRUD](screenshots/dashboard.png)
 
 3. **Form Tambah Data & Upload Sampul (`tambah_buku.php`)**
-   ![Screenshot Tambah Buku](Screenshot 2026-11-07 144544.png)
+   ![Screenshot Tambah Buku](screenshots/tambah_buku.png)
 
 
 ---
